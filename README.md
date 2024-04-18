@@ -51,4 +51,5 @@ Descrição: A classificação e localização envolvem identificar a categoria 
 - Setor Financeiro: para verificação de identidade e prevenção de fraudes.
   
 ### Teste de um Produto Selecionado:
-Para este relatório, realizamos um teste prático com a TensorFlow Object Detection API para detecção de objetos em uma imagem de rua. O resultado foi a detecção precisa de vários objetos, incluindo carros, pedestres e sinais de trânsito, com uma alta taxa de precisão.
+Para este relatório, realizamos um teste prático com a TensorFlow Object Detection API para detecção de objetos em uma sala. Segue o link do Colab para verificar:
+https://colab.research.google.com/drive/1LSgVRBwoQbwrKUl8Ro2re5hivj2DCX-Z#scrollTo=UrNZfFx8k0Rm
